@@ -9,7 +9,7 @@
 
 </div>
 
-## ✨ About Me
+## <b>✨ About Me</b>
 
 <div align="center">
 
@@ -20,7 +20,7 @@ I’m a **Computer Science Engineering student** who loves building **full-stack
 <table align="center">
   <tr>
     <td width="417" align="center" valign="middle">
-      <h3>🔭&nbsp; Working on</h3>
+      <b>🔭&nbsp; Working on</b><br/><br/>
       <b>AI-Based Asset Monitoring<br/>&amp; Maintenance System</b>
       <br/>
       Digital Maintenance and Asset Tracking
@@ -28,7 +28,7 @@ I’m a **Computer Science Engineering student** who loves building **full-stack
       <img src="https://img.shields.io/badge/Status-In_progress-6c5ce7?style=flat-square" alt="In progress" />
     </td>
     <td width="417" align="center" valign="middle">
-      <h3>🌱&nbsp; Learning</h3>
+      <b>🌱&nbsp; Learning</b><br/><br/>
       <img src="https://skillicons.dev/icons?i=aws,jenkins,py&theme=dark" height="44" alt="AWS, Jenkins, Python" />
       <br/><br/>
       <b>Cloud Computing · Jenkins (CI/CD)</b>
@@ -38,7 +38,7 @@ I’m a **Computer Science Engineering student** who loves building **full-stack
   </tr>
   <tr>
     <td width="417" align="center" valign="middle">
-      <h3>👯&nbsp; Collaborating on</h3>
+      <b>👯&nbsp; Collaborating on</b><br/><br/>
       <img src="https://img.shields.io/badge/Full--Stack_Development-0e75b6?style=for-the-badge" alt="Full-Stack Development" />
       <br/>
       <img src="https://img.shields.io/badge/AI%2FML_Projects-6c5ce7?style=for-the-badge" alt="AI/ML Projects" />
@@ -46,7 +46,7 @@ I’m a **Computer Science Engineering student** who loves building **full-stack
       Open to team-ups, so feel free to reach out
     </td>
     <td width="417" align="center" valign="middle">
-      <h3>💬&nbsp; Ask me about</h3>
+      <b>💬&nbsp; Ask me about</b><br/><br/>
       <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,react,mongodb,mysql&theme=dark" height="40" alt="C, C++, Java, Python, JavaScript, React, MongoDB, SQL" />
       <br/><br/>
       <b>C · C++ · Java · Python · JavaScript<br/>React.js · MongoDB · SQL</b>
@@ -54,14 +54,14 @@ I’m a **Computer Science Engineering student** who loves building **full-stack
   </tr>
   <tr>
     <td width="417" align="center" valign="middle">
-      <h3>⚡&nbsp; Fun fact</h3>
+      <b>⚡&nbsp; Fun fact</b><br/><br/>
       <a href="https://www.leetcode.com/bathriprasanthv06"><img src="https://img.shields.io/badge/LeetCode-150%2B_solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode 150+" /></a>
       <br/>
       <a href="https://www.skillrack.com/faces/resume.xhtml?id=514881&key=26a4d90cd168f824ebf657c790509c5a5caea3be"><img src="https://img.shields.io/badge/SkillRack-1400%2B_solved-0e75b6?style=for-the-badge" alt="SkillRack 1400+" /></a>
       <br/><br/>
     </td>
     <td width="417" align="center" valign="middle">
-      <h3>📫&nbsp; Reach me</h3>
+      <b>📫&nbsp; Reach me</b><br/><br/>
       <a href="mailto:bathrip09@gmail.com"><img src="https://img.shields.io/badge/bathrip09@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
       <br/>
       <a href="https://linkedin.com/in/bathri-prasanth-b48a74329"><img src="https://img.shields.io/badge/Bathri_Prasanth-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -70,12 +70,12 @@ I’m a **Computer Science Engineering student** who loves building **full-stack
   </tr>
 </table>
 
-## 🚀 Featured Project
+## <b>🚀 Featured Project</b>
 
 <table align="center">
   <tr>
     <td width="834" align="center">
-      <h3>🏭 AI-Based Asset Monitoring &amp; Maintenance System</h3>
+      <b>🏭 AI-Based Asset Monitoring &amp; Maintenance System</b><br/><br/>
       A <b>Digital Maintenance and Asset Tracking System</b> that monitors assets<br/>and supports smarter maintenance decisions using AI.
       <br/><br/>
       <img src="https://img.shields.io/badge/Asset_Monitoring-0e75b6?style=flat-square" alt="Asset Monitoring" />
@@ -89,7 +89,7 @@ I’m a **Computer Science Engineering student** who loves building **full-stack
   </tr>
 </table>
 
-## 🛠️ Tech Stack
+## <b>🛠️ Tech Stack</b>
 
 <table align="center">
   <tr>
@@ -126,7 +126,7 @@ I’m a **Computer Science Engineering student** who loves building **full-stack
   </tr>
 </table>
 
-## 🏆 Competitive Programming
+## <b>🏆 Competitive Programming</b>
 
 <div align="center">
 
@@ -138,7 +138,7 @@ I’m a **Computer Science Engineering student** who loves building **full-stack
 
 </div>
 
-## 📊 GitHub Stats
+## <b>📊 GitHub Stats</b>
 
 <table align="center">
   <tr>
