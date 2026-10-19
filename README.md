@@ -20,33 +20,56 @@ I’m a Computer Science Engineering student who loves building full-stack appli
 <table align="center">
   <tr>
     <td width="417" align="center" valign="middle">
-      <br/><b>🔭&nbsp; Working on</b><br/><br/>
-      AI-Based Asset Monitoring<br/>&amp; Maintenance System<br/><br/>
+      <b>🔭&nbsp; Working on</b>
+      <br/><br/>
+      <b>AI-Based Asset Monitoring<br/>&amp; Maintenance System</b>
+      <br/>
+      <sub>Digital Maintenance and Asset Tracking</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Status-In_progress-6c5ce7?style=flat-square" alt="In progress" />
     </td>
     <td width="417" align="center" valign="middle">
-      <br/><b>🌱&nbsp; Learning</b><br/><br/>
-      Cloud Computing · Jenkins (CI/CD)<br/>AI/ML applications<br/><br/>
+      <b>🌱&nbsp; Learning</b>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=aws,jenkins,py&theme=dark" height="44" alt="AWS, Jenkins, Python" />
+      <br/><br/>
+      <b>Cloud Computing · Jenkins (CI/CD)</b>
+      <br/>
+      <sub>AI/ML applications</sub>
     </td>
   </tr>
   <tr>
     <td width="417" align="center" valign="middle">
-      <br/><b>👯&nbsp; Collaborating on</b><br/><br/>
-      Full-Stack Development<br/>&amp; AI/ML projects<br/><br/>
+      <b>👯&nbsp; Collaborating on</b>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Full--Stack_Development-0e75b6?style=for-the-badge" alt="Full-Stack Development" />
+      <br/>
+      <img src="https://img.shields.io/badge/AI%2FML_Projects-6c5ce7?style=for-the-badge" alt="AI/ML Projects" />
+      <br/><br/>
+      <sub>Open to team-ups, so feel free to reach out</sub>
     </td>
     <td width="417" align="center" valign="middle">
-      <br/><b>💬&nbsp; Ask me about</b><br/><br/>
-      C · C++ · Java · Python · JavaScript<br/>React.js · MongoDB · SQL<br/><br/>
+      <b>💬&nbsp; Ask me about</b>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,react,mongodb,mysql&theme=dark" height="40" alt="C, C++, Java, Python, JavaScript, React, MongoDB, SQL" />
+      <br/><br/>
+      <sub>C · C++ · Java · Python · JavaScript · React.js · MongoDB · SQL</sub>
     </td>
   </tr>
   <tr>
     <td width="417" align="center" valign="middle">
-      <br/><b>⚡&nbsp; Fun fact</b><br/><br/>
-      150+ problems solved on LeetCode<br/>1400+ on SkillRack<br/><br/>
+      <b>⚡&nbsp; Fun fact</b>
+      <br/><br/>
+      <a href="https://www.leetcode.com/bathriprasanthv06"><img src="https://img.shields.io/badge/LeetCode-150%2B_solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode 150+" /></a>
+      <br/>
+      <a href="https://www.skillrack.com/faces/resume.xhtml?id=514881&key=26a4d90cd168f824ebf657c790509c5a5caea3be"><img src="https://img.shields.io/badge/SkillRack-1400%2B_solved-0e75b6?style=for-the-badge" alt="SkillRack 1400+" /></a>
     </td>
     <td width="417" align="center" valign="middle">
-      <br/><b>📫&nbsp; Reach me</b><br/><br/>
-      <a href="mailto:bathrip09@gmail.com">bathrip09@gmail.com</a><br/>
-      <a href="https://famous-macaron-5af0ae.netlify.app">Portfolio</a><br/><br/>
+      <b>📫&nbsp; Reach me</b>
+      <br/><br/>
+      <a href="mailto:bathrip09@gmail.com"><img src="https://img.shields.io/badge/bathrip09@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+      <br/>
+      <a href="https://linkedin.com/in/bathri-prasanth-b48a74329"><img src="https://img.shields.io/badge/Bathri_Prasanth-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     </td>
   </tr>
 </table>
@@ -56,12 +79,15 @@ I’m a Computer Science Engineering student who loves building full-stack appli
 <table align="center">
   <tr>
     <td width="834" align="center">
-      <br/>
       <h3>🏭 AI-Based Asset Monitoring &amp; Maintenance System</h3>
       <i>A Digital Maintenance and Asset Tracking System that monitors assets<br/>and supports smarter maintenance decisions using AI.</i>
       <br/><br/>
-      <a href="https://famous-macaron-5af0ae.netlify.app"><img src="https://img.shields.io/badge/See_all_projects-0e75b6?style=for-the-badge&logo=netlify&logoColor=white" alt="See all projects" /></a>
+      <img src="https://img.shields.io/badge/Asset_Monitoring-0e75b6?style=flat-square" alt="Asset Monitoring" />
+      <img src="https://img.shields.io/badge/Maintenance_Tracking-0A66C2?style=flat-square" alt="Maintenance Tracking" />
+      <img src="https://img.shields.io/badge/AI%2FML-6c5ce7?style=flat-square" alt="AI/ML" />
+      <img src="https://img.shields.io/badge/Status-In_progress-1f2937?style=flat-square" alt="In progress" />
       <br/><br/>
+      <a href="https://famous-macaron-5af0ae.netlify.app"><img src="https://img.shields.io/badge/See_all_projects-0e75b6?style=for-the-badge&logo=netlify&logoColor=white" alt="See all projects" /></a>
     </td>
   </tr>
 </table>
