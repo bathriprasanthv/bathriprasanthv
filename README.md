@@ -17,49 +17,89 @@ I’m a Computer Science Engineering student who loves building full-stack appli
 
 </div>
 
-<table width="100%">
+<table align="center">
   <tr>
-    <td width="24%">🔭 <b>Working on</b></td>
+    <td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6c5ce7&height=4" width="860" height="4" alt="" /></td>
+  </tr>
+  <tr>
+    <td width="220" nowrap>🔭&nbsp;&nbsp;<b>Working on</b></td>
     <td>AI-Based Asset Monitoring &amp; Maintenance System</td>
   </tr>
   <tr>
-    <td>🌱 <b>Learning</b></td>
+    <td nowrap>🌱&nbsp;&nbsp;<b>Learning</b></td>
     <td>Cloud Computing · Jenkins (CI/CD) · AI/ML applications</td>
   </tr>
   <tr>
-    <td>👯 <b>Collaborating on</b></td>
+    <td nowrap>👯&nbsp;&nbsp;<b>Collaborating on</b></td>
     <td>Full-Stack Development &amp; AI/ML projects</td>
   </tr>
   <tr>
-    <td>💬 <b>Ask me about</b></td>
+    <td nowrap>💬&nbsp;&nbsp;<b>Ask me about</b></td>
     <td>C · C++ · Java · Python · JavaScript · React.js · MongoDB · SQL</td>
   </tr>
   <tr>
-    <td>⚡ <b>Fun fact</b></td>
+    <td nowrap>⚡&nbsp;&nbsp;<b>Fun fact</b></td>
     <td>150+ problems solved on LeetCode and 1400+ on SkillRack</td>
   </tr>
 </table>
 
 ## 🚀 Featured Project
 
-<table width="100%">
+<table align="center">
+  <tr>
+    <td><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6c5ce7&height=4" width="860" height="4" alt="" /></td>
+  </tr>
   <tr>
     <td align="center">
+      <br/>
       <h3>🏭 AI-Based Asset Monitoring &amp; Maintenance System</h3>
       <i>A Digital Maintenance and Asset Tracking System that monitors assets<br/>and supports smarter maintenance decisions using AI.</i>
       <br/><br/>
       <a href="https://famous-macaron-5af0ae.netlify.app"><img src="https://img.shields.io/badge/See_all_projects-0e75b6?style=for-the-badge&logo=netlify&logoColor=white" alt="See all projects" /></a>
+      <br/><br/>
     </td>
   </tr>
 </table>
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,react,tailwind,nodejs,spring,django,mongodb,mysql,postgres,pandas,aws,jenkins,linux,git,github,vscode,postman,grafana,selenium,arduino,blender,ai&perline=14&theme=dark" alt="Tech stack" />
-
-</div>
+<table align="center">
+  <tr>
+    <td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6c5ce7&height=4" width="860" height="4" alt="" /></td>
+  </tr>
+  <tr>
+    <td width="220" nowrap>💻&nbsp;&nbsp;<b>Programming</b></td>
+    <td><img src="https://skillicons.dev/icons?i=c,cpp,java,py,js&theme=dark" alt="Programming" /></td>
+  </tr>
+  <tr>
+    <td nowrap>🎨&nbsp;&nbsp;<b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" alt="Frontend" /></td>
+  </tr>
+  <tr>
+    <td nowrap>⚙️&nbsp;&nbsp;<b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,spring,django&theme=dark" alt="Backend" /></td>
+  </tr>
+  <tr>
+    <td nowrap>🗄️&nbsp;&nbsp;<b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" alt="Databases" /></td>
+  </tr>
+  <tr>
+    <td nowrap>☁️&nbsp;&nbsp;<b>Cloud &amp; DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,jenkins,linux,git,github&theme=dark" alt="Cloud and DevOps" /></td>
+  </tr>
+  <tr>
+    <td nowrap>🧪&nbsp;&nbsp;<b>Testing &amp; Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=selenium,postman,grafana,vscode&theme=dark" alt="Testing and tools" /></td>
+  </tr>
+  <tr>
+    <td nowrap>📈&nbsp;&nbsp;<b>Data Science</b></td>
+    <td><img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="40" alt="pandas" /></td>
+  </tr>
+  <tr>
+    <td nowrap>🔌&nbsp;&nbsp;<b>Hardware &amp; Design</b></td>
+    <td><img src="https://skillicons.dev/icons?i=arduino,blender,ai&theme=dark" alt="Hardware and design" /></td>
+  </tr>
+</table>
 
 ## 🏆 Competitive Programming
 
@@ -75,7 +115,10 @@ I’m a Computer Science Engineering student who loves building full-stack appli
 
 ## 📊 GitHub Stats
 
-<table width="100%">
+<table align="center">
+  <tr>
+    <td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6c5ce7&height=4" width="860" height="4" alt="" /></td>
+  </tr>
   <tr>
     <td width="50%" align="center">
       <img width="100%" src="https://github-readme-stats.vercel.app/api?username=bathriprasanthv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=495" alt="GitHub stats" />
