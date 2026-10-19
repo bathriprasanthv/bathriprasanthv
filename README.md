@@ -19,27 +19,35 @@ I’m a Computer Science Engineering student who loves building full-stack appli
 
 <table align="center">
   <tr>
-    <td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6c5ce7&height=4" width="860" height="4" alt="" /></td>
+    <td width="417" align="center" valign="middle">
+      <br/><b>🔭&nbsp; Working on</b><br/><br/>
+      AI-Based Asset Monitoring<br/>&amp; Maintenance System<br/><br/>
+    </td>
+    <td width="417" align="center" valign="middle">
+      <br/><b>🌱&nbsp; Learning</b><br/><br/>
+      Cloud Computing · Jenkins (CI/CD)<br/>AI/ML applications<br/><br/>
+    </td>
   </tr>
   <tr>
-    <td width="220" nowrap>🔭&nbsp;&nbsp;<b>Working on</b></td>
-    <td>AI-Based Asset Monitoring &amp; Maintenance System</td>
+    <td width="417" align="center" valign="middle">
+      <br/><b>👯&nbsp; Collaborating on</b><br/><br/>
+      Full-Stack Development<br/>&amp; AI/ML projects<br/><br/>
+    </td>
+    <td width="417" align="center" valign="middle">
+      <br/><b>💬&nbsp; Ask me about</b><br/><br/>
+      C · C++ · Java · Python · JavaScript<br/>React.js · MongoDB · SQL<br/><br/>
+    </td>
   </tr>
   <tr>
-    <td nowrap>🌱&nbsp;&nbsp;<b>Learning</b></td>
-    <td>Cloud Computing · Jenkins (CI/CD) · AI/ML applications</td>
-  </tr>
-  <tr>
-    <td nowrap>👯&nbsp;&nbsp;<b>Collaborating on</b></td>
-    <td>Full-Stack Development &amp; AI/ML projects</td>
-  </tr>
-  <tr>
-    <td nowrap>💬&nbsp;&nbsp;<b>Ask me about</b></td>
-    <td>C · C++ · Java · Python · JavaScript · React.js · MongoDB · SQL</td>
-  </tr>
-  <tr>
-    <td nowrap>⚡&nbsp;&nbsp;<b>Fun fact</b></td>
-    <td>150+ problems solved on LeetCode and 1400+ on SkillRack</td>
+    <td width="417" align="center" valign="middle">
+      <br/><b>⚡&nbsp; Fun fact</b><br/><br/>
+      150+ problems solved on LeetCode<br/>1400+ on SkillRack<br/><br/>
+    </td>
+    <td width="417" align="center" valign="middle">
+      <br/><b>📫&nbsp; Reach me</b><br/><br/>
+      <a href="mailto:bathrip09@gmail.com">bathrip09@gmail.com</a><br/>
+      <a href="https://famous-macaron-5af0ae.netlify.app">Portfolio</a><br/><br/>
+    </td>
   </tr>
 </table>
 
@@ -47,10 +55,7 @@ I’m a Computer Science Engineering student who loves building full-stack appli
 
 <table align="center">
   <tr>
-    <td><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6c5ce7&height=4" width="860" height="4" alt="" /></td>
-  </tr>
-  <tr>
-    <td align="center">
+    <td width="834" align="center">
       <br/>
       <h3>🏭 AI-Based Asset Monitoring &amp; Maintenance System</h3>
       <i>A Digital Maintenance and Asset Tracking System that monitors assets<br/>and supports smarter maintenance decisions using AI.</i>
@@ -65,11 +70,8 @@ I’m a Computer Science Engineering student who loves building full-stack appli
 
 <table align="center">
   <tr>
-    <td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6c5ce7&height=4" width="860" height="4" alt="" /></td>
-  </tr>
-  <tr>
-    <td width="220" nowrap>💻&nbsp;&nbsp;<b>Programming</b></td>
-    <td><img src="https://skillicons.dev/icons?i=c,cpp,java,py,js&theme=dark" alt="Programming" /></td>
+    <td width="200" nowrap>💻&nbsp;&nbsp;<b>Programming</b></td>
+    <td width="634"><img src="https://skillicons.dev/icons?i=c,cpp,java,py,js&theme=dark" alt="Programming" /></td>
   </tr>
   <tr>
     <td nowrap>🎨&nbsp;&nbsp;<b>Frontend</b></td>
@@ -117,13 +119,10 @@ I’m a Computer Science Engineering student who loves building full-stack appli
 
 <table align="center">
   <tr>
-    <td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6c5ce7&height=4" width="860" height="4" alt="" /></td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
+    <td width="417" align="center">
       <img width="100%" src="https://github-readme-stats.vercel.app/api?username=bathriprasanthv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=495" alt="GitHub stats" />
     </td>
-    <td width="50%" align="center">
+    <td width="417" align="center">
       <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=bathriprasanthv&theme=tokyonight&hide_border=true" alt="GitHub streak" />
     </td>
   </tr>
