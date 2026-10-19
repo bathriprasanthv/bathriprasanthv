@@ -1,40 +1,127 @@
-<h1 align="center">Hi 👋, I'm Bathri Prasanth V</h1>
-<h3 align="center">Computer Science Engineering Student | Full-Stack Developer | Cloud Computing Enthusiast</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bathriprasanthv&label=Profile%20views&color=0e75b6&style=flat" alt="bathriprasanthv" /> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Bathri+Prasanth+V;Computer+Science+Engineering+Student;Full-Stack+Developer;Cloud+Computing+Enthusiast" alt="Typing SVG" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bathriprasanthv" alt="bathriprasanthv" /></a> </p>
+<img src="https://komarev.com/ghpvc/?username=bathriprasanthv&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
-- AI-Based Asset Monitoring and Maintenance System **Digital Maintenance and Asset Tracking System**
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0e75b6?style=for-the-badge&logo=netlify&logoColor=white)](https://famous-macaron-5af0ae.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bathri-prasanth-b48a74329)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bathrip09@gmail.com)
+[![Experience](https://img.shields.io/badge/Experience-Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1uIlLIrsW_hT2-rr5nIMYGwYf5vuh_zP2)
 
-- 🌱 I’m currently learning **Cloud Computing, Jenkins, and AI/ML Applications**
+</div>
 
-- 👯 I’m looking to collaborate on **Full-Stack Development and AI/ML Projects**
+---
 
-- 👨‍💻 All of my projects are available at [https://famous-macaron-5af0ae.netlify.app](https://famous-macaron-5af0ae.netlify.app)
+## 👨‍💻 About Me
 
-- 💬 Ask me about **C, C++, Java, Python, JavaScript, React.js, MongoDB, and SQL**
+I'm a Computer Science Engineering student who enjoys building full-stack applications and exploring how cloud and AI/ML can make everyday systems smarter.
 
-- 📫 How to reach me **bathrip09@gmail.com**
+- 🔭 **Working on:** AI-Based Asset Monitoring and Maintenance System, a *Digital Maintenance and Asset Tracking System*
+- 🌱 **Learning:** Cloud Computing, Jenkins (CI/CD), and AI/ML applications
+- 👯 **Looking to collaborate on:** Full-Stack Development and AI/ML projects
+- 💬 **Ask me about:** C, C++, Java, Python, JavaScript, React.js, MongoDB, and SQL
+- 🌐 **My projects:** [famous-macaron-5af0ae.netlify.app](https://famous-macaron-5af0ae.netlify.app)
+- ⚡ **Fun fact:** Solved **150+** problems on LeetCode and **1400+** on SkillRack
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1uIlLIrsW_hT2-rr5nIMYGwYf5vuh_zP2](https://drive.google.com/drive/folders/1uIlLIrsW_hT2-rr5nIMYGwYf5vuh_zP2)
+---
 
-- ⚡ Fun fact **Solved 150+ problems on LeetCode and 1400+ on SkillRack.**
+## 🚀 Featured Project
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bathri-prasanth-b48a74329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bathri-prasanth-b48a74329" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/bathriprasanth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bathriprasanth" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/bathriprasanth_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bathriprasanth_1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/bathriprasanthv06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bathriprasanthv06" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bathriprasanthv06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bathriprasanthv06" height="30" width="40" /></a>
-</p>
+### 🏭 AI-Based Asset Monitoring and Maintenance System
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+A digital maintenance and asset tracking platform that monitors assets and supports smarter maintenance decisions using AI.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bathriprasanthv&show_icons=true&locale=en&layout=compact" alt="bathriprasanthv" /></p>
+| | |
+|---|---|
+| **Focus** | Asset tracking, monitoring, and maintenance management |
+| **Approach** | Full-stack application with AI/ML-driven insights |
+| **Status** | 🚧 In progress |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bathriprasanthv&show_icons=true&locale=en" alt="bathriprasanthv" /></p>
+> 📂 More projects, demos, and write-ups are on my [portfolio](https://famous-macaron-5af0ae.netlify.app).
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bathriprasanthv&" alt="bathriprasanthv" /></p>
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Cloud, DevOps & Tools**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+**Data Science & Design**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+
+---
+
+## 🏆 Competitive Programming
+
+| Platform | Profile |
+|---|---|
+| LeetCode (150+ solved) | [bathriprasanthv06](https://www.leetcode.com/bathriprasanthv06) |
+| SkillRack (1400+ solved) | — |
+| CodeChef | [bathriprasanth](https://www.codechef.com/users/bathriprasanth) |
+| Codeforces | [bathriprasanthv06](https://codeforces.com/profile/bathriprasanthv06) |
+| HackerRank | [bathriprasanth_1](https://www.hackerrank.com/bathriprasanth_1) |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=bathriprasanthv&show_icons=true&hide_border=true&theme=default&locale=en" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bathriprasanthv&layout=compact&hide_border=true&theme=default" alt="Top languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bathriprasanthv&hide_border=true" alt="GitHub streak" />
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=bathriprasanthv&row=1&column=7&margin-w=10&no-frame=true&no-bg=true" alt="Trophies" />
+</a>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to collaborating on full-stack and AI/ML projects. Reach out on [LinkedIn](https://linkedin.com/in/bathri-prasanth-b48a74329) or at **bathrip09@gmail.com**.
+
+<div align="center">
+
+⭐ *Thanks for stopping by!* ⭐
+
+</div>
