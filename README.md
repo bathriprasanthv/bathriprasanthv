@@ -9,7 +9,7 @@
 
 </div>
 
-## <b>✨ About Me</b>
+## <b>✨ ABOUT ME</b>
 
 <div align="center">
 
@@ -70,7 +70,7 @@ I’m a **Computer Science Engineering student** who loves building **full-stack
   </tr>
 </table>
 
-## <b>🚀 Featured Project</b>
+## <b>🚀 FEATURED PROJECT</b>
 
 <table align="center">
   <tr>
@@ -89,7 +89,7 @@ I’m a **Computer Science Engineering student** who loves building **full-stack
   </tr>
 </table>
 
-## <b>🛠️ Tech Stack</b>
+## <b>🛠️ TECH STACK</b>
 
 <table align="center">
   <tr>
@@ -126,7 +126,7 @@ I’m a **Computer Science Engineering student** who loves building **full-stack
   </tr>
 </table>
 
-## <b>🏆 Competitive Programming</b>
+## <b>🏆 COMPETITIVE PROGRAMMING</b>
 
 <div align="center">
 
@@ -138,7 +138,7 @@ I’m a **Computer Science Engineering student** who loves building **full-stack
 
 </div>
 
-## <b>📊 GitHub Stats</b>
+## <b>📊 GITHUB STATS</b>
 
 <table align="center">
   <tr>
